@@ -1,0 +1,5 @@
+title: ECE 4760 <br /> Final Project
+description: Recreating the Red-Light-Green-Light Doll from Squid Game <br /> Katherine Fernandes (kaf245) <br /> Tiffany Guo (tg382)
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
