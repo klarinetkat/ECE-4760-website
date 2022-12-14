@@ -1,7 +1,3 @@
----
-layout: default
----
-
 Introduction  
 ======
 ## Project: A high-stakes game of Red Light Green Light
